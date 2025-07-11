@@ -16,7 +16,7 @@ Unofficial hosts are by people in the community. Use at your own risk. These are
 
 - [https://ext-remover.net/detail/ExtPrint3r/](https://ext-remover.net/detail/ExtPrint3r/)
 - [http://extprint3r.killsecurly.com](http://extprint3r.killsecurly.com)
-- [https://nettleweb.com/xr/m714rqsc/](https://nettleweb.com/xr/m714rqsc/)
+- [https://hub.flamepass.com/xr/m714rqsc/](https://hub.flamepass.com/xr/m714rqsc/)
 - [https://gduip.github.io/Chrome-exploits/extprint3r/](https://gduip.github.io/Chrome-exploits/extprint3r/)
 - [https://xtest.nekoweb.org/extp.html](https://xtest.nekoweb.org/extp.html)
 - [https://us4-d.global.ssl.fastly.net/pages/apps/print3r](https://us4-d.global.ssl.fastly.net/pages/apps/print3r)
