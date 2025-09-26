@@ -10,8 +10,7 @@ app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "index.html"));
 });
 
-// Start the server
-const port = process.env.PORT || 3000;
-app.listen(port, () => {
-  console.log(`Server is running at http://localhost:${port}`);
+
+app.listen(8000, "0.0.0.0", () => {
+  console.log("http://0.0.0.0:8000");
 });
